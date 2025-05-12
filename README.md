@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ooi Qiaoyan</h1>
-<h3 align="center">A passionate frontend developer who loves to create new programs</h3>
+<h3 align="center">A passionate frontend developer from</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukikozen&label=Profile%20views&color=0e75b6&style=flat" alt="yukikozen" /> </p>
 
@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Yukikozen?tab=repositories](https://github.com/Yukikozen?tab=repositories)
 
 - 📫 How to reach me **ushiococo@gmail.com**
+
+- 📄 Know about my experiences [https://yukikozen.github.io/Portfolio/](https://yukikozen.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
